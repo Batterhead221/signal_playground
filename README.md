@@ -1,6 +1,5 @@
 # signal_playground
 (LIGHT_BOARD_TOY)
-![SIGNAL_PLAYGROUND](/V1.0/HARDWARE/IMAGES/REPO_IMG/HERO.png)
 KIDS TOY BUILT FOR MY NIECE / ANALOG PROJECT
 
 For Emerson - Electronics Learning Board
@@ -26,6 +25,7 @@ Hardware Design
 •	Grounding: Top & Bottom copper pour with stitched ground vias
 •	Input Path: Noise-optimized routing with short trace to input capacitor
 
-
+This was my first project, so it's not the prettiest and there are alot of things that I would have done different now.
+Oh well, it worked, and my niece loved it.
 
 DESIGNED & ENGINEERED BY BRANDON SHELLY
